@@ -4,6 +4,7 @@ pod 'AFNetworking', '1.3.3'
 pod 'CocoaLumberjack', '~> 1.7.0'
 pod 'VKFoundation', '0.1.1'
 pod 'CocoaHTTPServer'
+pod 'Reachability'
 
 target 'VKVideoPlayerTests' do
   pod 'Specta',      '~> 0.2.1'
